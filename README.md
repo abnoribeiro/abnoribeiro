@@ -1,0 +1,1 @@
+👀 Hello, my name is Abno, i´m a 27 years old, currently work as a front-end software developer for Wiser Education, At the moment I've been studying a lot about software architecture, code design and testing, aiming to raise my technical level to have a cleaner, readable and scalable code.
